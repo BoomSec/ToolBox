@@ -1,2 +1,13 @@
 # ToolBox
-A Proof of Concept Program I made in High School. An older version of this program almost got me expelled lol
+###################################
+DONT MOVE ANY FILES
+OUT OF THIS FOLDER IT WILL
+BREAK THE PROGRAMMING!!!
+PUT THE FOLDER WHERE YOU WANT
+JUST DONT MOVE THE FILES OUT!!!
+###################################
+IF YOU WANT TO HAVE ACCESS
+TO THE PROGRAM FROM SOMEWHERE 
+OTHER THAN THE FOLDER 
+CREATE A SHORTCUT
+###################################
